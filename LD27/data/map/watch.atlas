@@ -1,0 +1,19 @@
+
+watch.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+watchface
+  rotate: false
+  xy: 2, 22
+  size: 215, 231
+  orig: 216, 231
+  offset: 0, 0
+  index: -1
+watchhand
+  rotate: true
+  xy: 2, 2
+  size: 18, 61
+  orig: 18, 61
+  offset: 0, 0
+  index: -1

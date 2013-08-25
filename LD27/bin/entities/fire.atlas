@@ -1,0 +1,33 @@
+
+fire.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+firebase
+  rotate: false
+  xy: 2, 22
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fireflame1
+  rotate: false
+  xy: 2, 2
+  size: 16, 18
+  orig: 17, 18
+  offset: 1, 0
+  index: -1
+fireflame2
+  rotate: false
+  xy: 36, 39
+  size: 18, 15
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+fireflame3
+  rotate: false
+  xy: 36, 22
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1

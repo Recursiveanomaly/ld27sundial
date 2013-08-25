@@ -1,0 +1,103 @@
+
+player.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+body
+  rotate: false
+  xy: 57, 17
+  size: 62, 42
+  orig: 62, 42
+  offset: 0, 0
+  index: -1
+eyesclosed
+  rotate: false
+  xy: 176, 17
+  size: 26, 14
+  orig: 26, 17
+  offset: 0, 1
+  index: -1
+eyesopen
+  rotate: false
+  xy: 204, 17
+  size: 26, 14
+  orig: 26, 17
+  offset: 0, 1
+  index: -1
+hair
+  rotate: false
+  xy: 121, 18
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 53, 57
+  orig: 55, 61
+  offset: 1, 1
+  index: -1
+leftArm
+  rotate: false
+  xy: 176, 33
+  size: 54, 26
+  orig: 54, 26
+  offset: 0, 0
+  index: -1
+leftFoot
+  rotate: true
+  xy: 484, 38
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+leftHand
+  rotate: true
+  xy: 288, 39
+  size: 20, 54
+  orig: 20, 54
+  offset: 0, 0
+  index: -1
+leftShoulder
+  rotate: false
+  xy: 400, 22
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+rightArm
+  rotate: false
+  xy: 232, 33
+  size: 54, 26
+  orig: 54, 26
+  offset: 0, 0
+  index: -1
+rightFoot
+  rotate: true
+  xy: 484, 15
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+rightHand
+  rotate: true
+  xy: 344, 39
+  size: 20, 54
+  orig: 20, 54
+  offset: 0, 0
+  index: -1
+rightshoulder
+  rotate: false
+  xy: 442, 22
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+sword
+  rotate: true
+  xy: 57, 4
+  size: 11, 60
+  orig: 11, 60
+  offset: 0, 0
+  index: -1

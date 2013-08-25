@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="128" height="128" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="map" tilewidth="64" tileheight="64">
+  <image source="test.png" width="256" height="128"/>
+  <tile id="0">
+   <properties>
+    <property name="rotate" value=""/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="blocked" value=""/>
+    <property name="rotate" value=""/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="9" name="tutorial" tilewidth="64" tileheight="64">
+  <image source="tutorial.png" width="1024" height="1024"/>
+ </tileset>
+ <layer name="base" width="128" height="128">
+  <data encoding="base64" compression="zlib">
+   eJztmdtuGzEMRJ30+v9f3OTBgGvoQlKkhpQmwACN67XFOUNKu/l8PB6fC/pNldaT44dSJ/Bfyf0pPWFh/5oB9PpX2Vtrn/VFFW9O4D/qwVGferOvOB/ffeh503o9S329GnZwrp6Blnejekb1zfov8jUU4yozUsrfmvHXXkO9llGn86fIn7qXP+e/zB80Zyl/nv/umgG8/yP/6nW98+7NC1Qmsvh0Kn9rXsjf7kX2c42kbvLvz0ep0OvPzr+6T6dqJ390rRT5j3zwFLoebd23z35PD7yzFJ273j2h131idvbe/FHymD+tPK3kYLSeTLO1lXvr72i1uHllwzL3PHuO/HVzQNOPFv4r2SL/2AzM8jGa+b1Z7ckjK3/P/ouUpf97a2y9LmHf4uFRQ3X+EWucrfPdV01eRjX0rh3NCi8vEfxX5z+C/8oe1LpWkh3yz8V/1VcvFr39pMr8P5X/rJctM0PipbYWNP+sM6q3TkkvzfpO249SruSPX+dsXlk/T8rfW9G+RqzZqx4rf69sS/It/b7IPvHg7+mZlweWOe1ZjySz5B/HX5KB1nyZnf1mOZnNK828y87/o/G7tMdatUZ4YNlTJO+37lHWfQnN3aP/JT3Te38mDzz7h/xl75f2lvW8iPTP++x7Cn9tD1SYFxXWSP7kn5G/9syMVMu33hrRTK38tUwl75Wwza4ef+tcyyRJj43+X8Idzc+D/3tvn8hf2weta0/iPqqN/Pv80ZzQGUEz1fJfUas/0AzIf73/pWc77TWni/zP1en7f+/fUg+q3t9puEv6Bs3Um78kFy0f0Nw8+WvmJpppVv6rZ02kWr69z7neezPLk7lH/39f9/xBe2PxD72eE/h/r+v5g/bnVv6rLFf5V8nA6fxbe+Eu/hUycAP/WR5WNeKfPQOn8bf2u1US/u8Z+JXAtxP5e85xb/5ZRf57+/+RwDPyx/T/8wftGfnH5gHtCfmT/638d5//yT/P+lH9Tv451k/+5L87D639Bu0J+e/lj/aA/Mf8o4X2gPx9+7+iD+RP/hbvWn8/Q68rmv/s74TVPPBgXzUD0v1f0vO38J95UikD2n4nf3k/oNfpxX8098n/PP6W5/7kfwZ/Sw5uO//dwF+yH4zOjOi6yN+Pv0QVayd/3T4vfW+V2jUejfIu7Rt0HeQf71E1Tzxqq1Ir+ZM/+ZM/+f9fW4TQdZE/Rf4U+VPkT5H/PfI+o5J/HWmfz3rk6f0zb7gnyirt82zP7yNjvMj/bmXlf+Nzs5P5z/Z/y7rIvxZ/zeeSf07+K9J+Lvnn4p9N5E/+aP+qi/M/jzReovhHfM/N5z9t5nv9UoE/7//Gfqzsg9YcZH7+cyJ/T+69HJzCf+c+uJO/N/eVDGTlf6Ki+n4lA5qzNvn71b4zA7OZOTqDes/aW/nv6v0eu9ZrrVy0+Ef1wG38d7L3yIrn3Cd/POOVbJB/vx6p0Bwz8q9+nxfN9ceXfi5w88hkFH9E/qrx//Olvwv8NbOL/PW1aOZZZE56va+tJXr+WvbLzPylWUXwR/vj3VfodbUy3Ou79/WSv419xgxIWLbWuisDmbzy9DbL/cAK/x0ZQPuz4qvUW2SNVv7Sa9n7uTO+yj8yA1XZW/ijal19ZhWZgVv4V681IgeVZ/+N/F8zsJqD6uxfvbiJfysHln3wFC+q3APsysIt3Hv1Pz2IfCadVbueyWfWbfVSFEVRFJVP/wD51QuR
+  </data>
+ </layer>
+ <layer name="tutorial" width="128" height="128">
+  <data encoding="base64" compression="zlib">
+   eJzt2TWMlVEUReFpcXcd3J0ChwEKnBZ3EtxJcFpcKzRIhTZIcIfgToLDUOEySMsiJFSQ8JJ5/yHD+pLV3rP7m5EhSZIkSVIyXtIrek1v6C29o/f0gT7SJ8qhz/SFvtK3P7y3j/bTATqYzuH65SJdost0ha7SNbpON+gm3aLbdIfu0r00bTlL5+g8XUjTDSkvW0WraQ2tDd6i5G2hrbSNtgdvkSRJkiRJkpS3NKVm1JxaUMvYOUpYJ8qiztSFusbOkaRc14paUxtqS+2oPXWgjnGzlJBu1J16UE/qRb2pD/UN3CVJkiRJv3OfHtBDekSP6Qk9pWf0nLLpRdA+SdLfK0flqQJVpEpUmapQ1bhZSkhdqkf1qQE1pEbUmJoE7pIkSZIkSZIkSZIkxVhH62kDbaRNtDl0kZK0g3bSLtpNe2hv6CJJkiQpdWOiB0hSoEN0mI7QUTpGx+kEnaRTdJrOBO2TJEmSJEmSJElKRT/qTwNoIA2iwTSEhsbNUkJ+/P+PpXE0nibQRJpEkwN3SZIkSZIkSZIkSZIkSZIkSZIkSZL0L8tH+akAFaRCVJiKUNHAXZIkSZKk3DOMhtMIGkmjaHToIiVpCk2laTSdZtDM0EWS9H8qRsWpBJWkUlSaylDZwF1KRiZVo+pUg2pSLapNdQJ3SfppFs2mOTSX5tF8WkAL42YpIYtoMS2hpbSMltMKWhm4S5IkSZIkSZIkpe479HdcoQ==
+  </data>
+ </layer>
+ <objectgroup color="#0d15a4" name="objects" width="128" height="128">
+  <object name="spider" x="2184" y="4041" width="54" height="44"/>
+  <object name="spider" x="2592" y="2412" width="54" height="44"/>
+  <object name="ghost" x="4456" y="638" width="54" height="44"/>
+  <object name="ghost" x="4866" y="823" width="54" height="44"/>
+  <object name="watch" x="621" y="2195" width="35" height="36"/>
+  <object name="light" x="6390" y="1694" width="35" height="36"/>
+  <object name="sword" x="1965" y="3314" width="35" height="36"/>
+  <object name="fire" x="930" y="163"/>
+  <object name="ghost" x="5194" y="601" width="54" height="44"/>
+  <object name="fire" x="935" y="861"/>
+  <object name="fire" x="101" y="868"/>
+  <object name="fire" x="103" y="165"/>
+  <object name="fire" x="165" y="97"/>
+  <object name="fire" x="163" y="931"/>
+  <object name="fire" x="864" y="928"/>
+  <object name="fire" x="868" y="92"/>
+  <object name="fire" x="356" y="351"/>
+  <object name="fire" x="357" y="668"/>
+  <object name="fire" x="675" y="671"/>
+  <object name="fire" x="672" y="352"/>
+  <object name="fire" x="97" y="512"/>
+  <object name="fire" x="512" y="87"/>
+  <object name="fire" x="515" y="921"/>
+  <object name="fire" x="993" y="416"/>
+  <object name="fire" x="999" y="607"/>
+  <object name="fire" x="1317" y="420"/>
+  <object name="fire" x="1317" y="609"/>
+  <object name="fire" x="1636" y="419"/>
+  <object name="fire" x="1633" y="613"/>
+  <object name="fire" x="1949" y="609"/>
+  <object name="fire" x="1952" y="420"/>
+  <object name="fire" x="2271" y="417"/>
+  <object name="fire" x="2272" y="608"/>
+  <object name="ghost" x="4298" y="1010" width="54" height="44"/>
+  <object name="ghost" x="3908" y="585" width="54" height="44"/>
+  <object name="ghost" x="4756" y="442" width="54" height="44"/>
+  <object name="ghost" x="5176" y="969" width="54" height="44"/>
+  <object name="ghost" x="4134" y="1977" width="54" height="44"/>
+  <object name="ghost" x="3328" y="1826" width="54" height="44"/>
+  <object name="ghost" x="1970" y="1383" width="54" height="44"/>
+  <object name="fire" x="2592" y="605"/>
+  <object name="fire" x="2592" y="417"/>
+  <object name="fire" x="2912" y="416"/>
+  <object name="fire" x="2915" y="608"/>
+  <object name="fire" x="3233" y="297"/>
+  <object name="fire" x="3236" y="736"/>
+  <object name="fire" x="3521" y="643"/>
+  <object name="fire" x="3523" y="401"/>
+  <object name="fire" x="4068" y="229"/>
+  <object name="fire" x="4579" y="161"/>
+  <object name="fire" x="5148" y="164"/>
+  <object name="fire" x="5659" y="672"/>
+  <object name="fire" x="5477" y="1312"/>
+  <object name="fire" x="4963" y="1497"/>
+  <object name="fire" x="4317" y="1636"/>
+  <object name="fire" x="3745" y="2145"/>
+  <object name="fire" x="3679" y="1445"/>
+  <object name="fire" x="2783" y="1635"/>
+  <object name="ghost" x="612" y="1583" width="54" height="44"/>
+  <object name="fire" x="223" y="2213"/>
+  <object name="ghost" x="4361" y="254" width="54" height="44"/>
+  <object name="ghost" x="4673" y="1190" width="54" height="44"/>
+  <object name="ghost" x="881" y="1890" width="54" height="44"/>
+  <object name="fire" x="930" y="2465"/>
+  <object name="ghost" x="3777" y="398" width="54" height="44"/>
+  <object name="fire" x="233" y="2596"/>
+  <object name="fire" x="1437" y="2215"/>
+  <object name="ghost" x="1651" y="2446" width="54" height="44"/>
+  <object name="ghost" x="1829" y="2398" width="54" height="44"/>
+  <object name="ghost" x="1555" y="2326" width="54" height="44"/>
+  <object name="ghost" x="1417" y="2510" width="54" height="44"/>
+  <object name="ghost" x="1301" y="2376" width="54" height="44"/>
+  <object name="ghost" x="1179" y="2614" width="54" height="44"/>
+  <object name="ghost" x="1293" y="3346" width="54" height="44"/>
+  <object name="fire" x="1130" y="3174"/>
+  <object name="ghost" x="870" y="2924" width="54" height="44"/>
+  <object name="ghost" x="456" y="3471" width="54" height="44"/>
+  <object name="ghost" x="129" y="3542" width="54" height="44"/>
+  <object name="fire" x="352" y="3774"/>
+  <object name="fire" x="800" y="3639"/>
+  <object name="fire" x="1056" y="3636"/>
+  <object name="fire" x="1308" y="3640"/>
+  <object name="fire" x="1572" y="3642"/>
+  <object name="fire" x="1832" y="3642"/>
+  <object name="fire" x="802" y="4086"/>
+  <object name="fire" x="1061" y="4092"/>
+  <object name="fire" x="1317" y="4089"/>
+  <object name="fire" x="1565" y="4074"/>
+  <object name="fire" x="1824" y="4075"/>
+  <object name="spider" x="1492" y="2869" width="54" height="44"/>
+  <object name="spider" x="2313" y="2917" width="54" height="44"/>
+  <object name="fire" x="2275" y="3233"/>
+  <object name="fire" x="1955" y="3097"/>
+  <object name="fire" x="2208" y="2597"/>
+  <object name="fire" x="2913" y="2597"/>
+  <object name="fire" x="4191" y="2607"/>
+  <object name="spider" x="3266" y="2837" width="54" height="44"/>
+  <object name="spider" x="4356" y="3042" width="54" height="44"/>
+  <object name="fire" x="353" y="2467"/>
+  <object name="ghost" x="3715" y="3086" width="54" height="44"/>
+  <object name="spider" x="5448" y="2218" width="54" height="44"/>
+  <object name="spider" x="5864" y="2038" width="54" height="44"/>
+  <object name="spider" x="5414" y="1807" width="54" height="44"/>
+  <object name="fire" x="6178" y="1511"/>
+  <object name="fire" x="6621" y="1507"/>
+  <object name="ghost" x="4846" y="5099" width="54" height="44"/>
+  <object name="ghost" x="5097" y="5226" width="54" height="44"/>
+  <object name="ghost" x="5412" y="5217" width="54" height="44"/>
+  <object name="ghost" x="5634" y="5075" width="54" height="44"/>
+  <object name="ghost" x="303" y="4762" width="54" height="44"/>
+  <object name="ghost" x="215" y="4954" width="54" height="44"/>
+  <object name="ghost" x="79" y="5186" width="54" height="44"/>
+  <object name="ghost" x="471" y="4916" width="54" height="44"/>
+  <object name="ghost" x="415" y="5096" width="54" height="44"/>
+  <object name="fire" x="838" y="4996"/>
+  <object name="fire" x="170" y="7342"/>
+  <object name="fire" x="609" y="7342"/>
+  <object name="fire" x="609" y="7518"/>
+  <object name="fire" x="158" y="7521"/>
+  <object name="fire" x="3873" y="7055"/>
+  <object name="fire" x="5267" y="6142"/>
+  <object name="fire" x="5988" y="7845"/>
+  <object name="ghost" x="5225" y="5711" width="54" height="44"/>
+  <object name="ghost" x="4418" y="6123" width="54" height="44"/>
+  <object name="ghost" x="4046" y="6126" width="54" height="44"/>
+  <object name="ghost" x="5831" y="5954" width="54" height="44"/>
+  <object name="ghost" x="5831" y="6281" width="54" height="44"/>
+  <object name="ghost" x="5370" y="7005" width="54" height="44"/>
+  <object name="ghost" x="3585" y="5939" width="54" height="44"/>
+  <object name="ghost" x="3767" y="6284" width="54" height="44"/>
+  <object name="spider" x="5813" y="7382" width="54" height="44"/>
+  <object name="spider" x="6129" y="7470" width="54" height="44"/>
+  <object name="bossSpider" x="5949" y="7638" width="54" height="44"/>
+  <object name="fire" x="1212" y="6752"/>
+  <object name="fire" x="1430" y="6591"/>
+  <object name="fire" x="1703" y="6518"/>
+  <object name="fire" x="2082" y="6512"/>
+  <object name="fire" x="2358" y="6618"/>
+  <object name="fire" x="2512" y="6861"/>
+  <object name="fire" x="2542" y="7133"/>
+  <object name="fire" x="2442" y="7385"/>
+  <object name="fire" x="2248" y="7588"/>
+  <object name="fire" x="1918" y="7645"/>
+  <object name="fire" x="1552" y="7503"/>
+  <object name="fire" x="1288" y="7333"/>
+  <object name="fire" x="1221" y="7030"/>
+  <object name="bossGhost" x="1823" y="6830" width="54" height="44"/>
+  <object name="player" x="573" y="491" width="55" height="21"/>
+  <object name="fire" x="3560" y="6632"/>
+  <object name="fire" x="3940" y="6616"/>
+  <object name="ghost" x="345" y="4606" width="54" height="44"/>
+  <object name="ghost" x="585" y="4298" width="54" height="44"/>
+  <object name="ghost" x="1033" y="4814" width="54" height="44"/>
+  <object name="ghost" x="325" y="3978" width="54" height="44"/>
+ </objectgroup>
+</map>

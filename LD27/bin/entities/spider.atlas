@@ -1,0 +1,61 @@
+
+spider.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+spiderbody
+  rotate: false
+  xy: 2, 49
+  size: 69, 75
+  orig: 69, 75
+  offset: 0, 0
+  index: -1
+spiderhead
+  rotate: false
+  xy: 73, 34
+  size: 54, 38
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+spiderleftbackleg
+  rotate: false
+  xy: 73, 74
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+spiderleftfrontleg
+  rotate: true
+  xy: 188, 82
+  size: 42, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+spiderleftmiddleleg
+  rotate: false
+  xy: 174, 41
+  size: 37, 38
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+spiderrightbackleg
+  rotate: false
+  xy: 2, 2
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+spiderrightfrontleg
+  rotate: true
+  xy: 133, 81
+  size: 43, 53
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+spiderrightmiddleleg
+  rotate: false
+  xy: 133, 41
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1

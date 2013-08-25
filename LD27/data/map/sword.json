@@ -1,0 +1,1 @@
+{"bones":[{"name":"root"},{"name":"bone1","parent":"root","length":35.84,"x":1,"rotation":90.87}],"slots":[{"name":"sword","bone":"bone1","attachment":"sword"}],"skins":{"default":{"sword":{"sword":{"x":9.01,"y":0.86,"rotation":-90.87,"width":11,"height":60}}}},"animations":{"idle":{}}}

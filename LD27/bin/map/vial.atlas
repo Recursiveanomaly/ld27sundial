@@ -1,0 +1,33 @@
+
+vial.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bottle
+  rotate: true
+  xy: 2, 2
+  size: 48, 120
+  orig: 48, 120
+  offset: 0, 0
+  index: -1
+bottlebroke
+  rotate: true
+  xy: 124, 2
+  size: 48, 91
+  orig: 48, 120
+  offset: 0, 0
+  index: -1
+life1
+  rotate: false
+  xy: 217, 26
+  size: 25, 24
+  orig: 26, 26
+  offset: 0, 1
+  index: -1
+life2
+  rotate: false
+  xy: 217, 3
+  size: 22, 21
+  orig: 26, 26
+  offset: 1, 3
+  index: -1

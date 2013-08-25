@@ -1,0 +1,19 @@
+
+ghost.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ghostbody
+  rotate: false
+  xy: 2, 2
+  size: 72, 58
+  orig: 73, 60
+  offset: 1, 0
+  index: -1
+ghosthead
+  rotate: false
+  xy: 76, 21
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
